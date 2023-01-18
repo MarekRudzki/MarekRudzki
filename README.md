@@ -1,7 +1,12 @@
+<h1>
+  Hey There!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me :
 
 
-I am a Flutter enthusiast from Poland :poland:.
+I am a Flutter enthusiast from Poland.
 - :telescope: I met Flutter in March 2022 and since then I can't get away from it!
 - :book: Learning new Flutter related stuff every day.
 - :computer: In my free time, i love to read books and play video games.
