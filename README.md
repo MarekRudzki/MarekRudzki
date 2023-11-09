@@ -7,7 +7,7 @@
 
 
 I am a Flutter enthusiast from Poland.
-- :telescope: I started learning Flutter in March 2022 and since then I can't get away from it!
+- :telescope: Started my Flutter journey in March 2022
 - :book: Learning new Flutter related stuff every day.
 - :computer: In my free time, I love to read books and play video games.
 - :video_game: Currently I have one app published on Google Play Store - "Słowotok - polska gra Wordle"
