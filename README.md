@@ -11,6 +11,7 @@ I am a Flutter enthusiast from Poland.
 - :book: Learning new Flutter related stuff every day.
 - :computer: In my free time, I love to read books and play video games.
 - :video_game: Currently I have one app published on Google Play Store - "Słowotok - polska gra Wordle"
+- :chart_with_upwards_trend: Currently learning: Kotlin & Android
 
 ### :hammer_and_wrench: Languages and Tools
 <div>
