@@ -6,7 +6,7 @@
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 
-I am a Flutter enthusiast from Poland.
+I`m a Flutter developer from Poland.
 - :telescope: Started my Flutter journey in March 2022.
 - :book: Learning new Flutter related stuff every day.
 - :computer: In my free time, I love to read books and play video games.
